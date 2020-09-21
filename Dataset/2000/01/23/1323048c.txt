@@ -1,0 +1,152 @@
+
+Lasers in the theatre 
+
+
+OVER  the  past four decades, the laser has evolved to  become  a 
+precise   and   powerful   weapon   in   the   modern   surgeon's 
+armamentarium.
+
+Let  us  look  at the past. As early  as  1917,  Albert  Einstein 
+predicted   that  ordinary  Light  could  be  Amplified  by   the 
+Stimulated  Emission of Radiation, and hence the  acronym  LASER. 
+However, Einstein died five years short of seeing his  prediction 
+come true. But he did witness the construction of the first MASER 
+(Microwave Amplification by the Stimulated Emission of Radiation) 
+in  1954, in the (erstwhile) USSR. It was in 1960  that  Theodore 
+Maiman successfully worked the first laser. This opened the doors 
+for a series of lasers to be discovered.
+
+There  are several types of lasers, depending on the  medium  and 
+the  chemical  constituents.  Essentially,  a  laser  beam  is  a 
+monochromatic  (single colour wavelength), parallel and  coherent 
+packet  (or quantum) of rays, made up of a variety of  molecules. 
+The CO2 (carbon dioxide) laser is one such laser; it has very low 
+penetration, and is useful for the removal of superficial lesions 
+of the skin, like warts.
+
+The  ND:YAG  laser  (Neodymium, Ytrium  -  Aluminium  Garnet)  is 
+probably  the  most useful and versatile laser in the  fields  of 
+general  surgery and gastroenterology because of its  ability  to 
+coagulate  (clot) bleeding points. Today, its  applications  have 
+extended to dermatology, neurosurgery, gynaecology, ophtalmology, 
+urology and vascular surgery.
+
+The Argon laser is another, albeit less useful, tool in  surgical 
+procedures.
+
+Effects  of  lasers:  The main uses are  related  to  their  bio-
+physical properties.
+
+Low  energy  lasers (power output less than 100mw and  an  energy 
+density  less  than  50mw/sq cm) have  biological  effects  which 
+include activation of bio-chemical reactions and the  stimulation 
+of  biological  tissues. This stimulation is helpful  in  healing 
+wounds  and  welding  tissues, (including the  joining  of  small 
+vessels and nerves) in dentistry.
+
+The  biological  effects  of high energy  lasers  are  even  more 
+dramatic.  The  ability to concentrate a very high  intensity  of 
+rays  at  that  focal  point is  of  fundamental  importance  for 
+therapeutic purposes. Most tissues have a high water content, and 
+this  leads  to a very marked absorption of  infrared  radiation. 
+This causes heating of tissues. For example, to study the  ND:YAG 
+laser's  effect  on tissues, its wavelength of 1,064  nm  has  an 
+affinity  for the red part of the colour spectrum.  Hence,  areas 
+that  bleed,  attract  and concentrate  this  laser,  which  then  
+stanches the bleeding by a coagulation process that involves  the 
+denaturation of proteins.
+
+Slow  heating  of a large volume of tissue around  the  point  of 
+impingement  of  radiation  occurs,  followed  by  deep,   slowly 
+progressive  coagulation. The tissue volume covered by the  laser 
+light  is  heated, which results in delayed  destruction  of  the 
+tissue,  with  no  noticeable structural damage.  At  the  tissue 
+surface,  vaporisation  occurs,  leading  to  marked   shrinking, 
+although the surface itself is hardly damaged. This is the  basis 
+of the action of the laser on haemorrhoids (piles). Blood vessels 
+are  sealed  by  the combined effect  of  shrinkage  and  uniform 
+coagulation of tissue.
+
+Uses  of lasers: These beams can be used directly on  tissues  or 
+through  endoscopes.  For example, CO2 lasers are  excellent  for 
+superficial warts as there is direct action. Haemorrhoids can  be 
+very   efficiently   dealt  with  by  direct   application.   For 
+application  inside the gastro-intestinal tract, laser beams  are 
+delivered through the endoscopic channel, to attack, for example, 
+bleeding  lesions three or four feet away from the body  surface, 
+within the colon (large gut) or stomach.
+
+Clinical   applications  of  lasers:  There  are  two  areas   of 
+gastroenterology where lasers are extremely useful:
+
+(a) Gastrointestinal (GI) bleeding: Bleeding from the GI tract is 
+classified  into  upper GI bleeding, i.e.  from  the  oesophagus, 
+stomach and duodenum, or lower GI bleeding, i.e. from the  colon, 
+or the rectum. Upper GI bleeding, in turn, can be due to  varices 
+which   are  dilated  veins  in  the  gullet,  found  in   portal 
+hypertension,  or  due  to ulcers that erode the  lining  of  the 
+stomach  and  penetrate  into  underlying  blood  vessels.  "Non-
+variceal" or "ulcer" bleeders are in this group.
+
+A  frightening emergency of devastating proportions, GI  bleeding 
+causes death in minutes to hours if left unattended. Endoscopy is 
+done  as soon as possible, in order to differentiate between  the 
+variceal and non-variceal types. If bleeding is due to a spurting 
+ulcer,  then laser photo-coagulation, through an  endoscope,  can 
+arrest  it immediately. Other causes of bleeding could be due  to 
+an  abnormal bunch of blood vessels in the stomach or  the  small 
+intestine  called Angiodysplasia which can also bleed  profusely. 
+These  are imminently and best treated by laser  photocoagulation 
+through the working channel of the endoscope. Stomach tumours can 
+also bleed, but can be controlled by laser treatment.
+
+Bleeding from the rectum, (often seen in piles), can sometimes be 
+profuse. There is good news for millions of sedentary Indians who 
+are  (literally) sitting on their piles. Piles (or  haemorrhoids) 
+are  dilated veins on the walls of the terminal part of the  gut, 
+close  to  the anal verge, which are the most  common  causes  of 
+rectal bleeding. There are as many treatments for piles as  there 
+are  physicians  smiting the eyes, from pamphlets  to  cable  TV. 
+Probably, the best method of curing piles, especially early ones,  
+is the application of the ND:YAG laser on to the pile mass, which 
+is  done  as  an  out-patient  procedure.  It  is  painless   and 
+inexpensive.  The treatment has revolutionised the management  of 
+this common and troublesome problem.
+
+Another  cause for lower GI bleeding, especially in the  elderly, 
+is  angiodysplasia  (described earlier) in the  large  intestine. 
+These  are first identified by doing an endoscopy  (colonoscopy). 
+Using  a bare laser fibre (which can be passed through a  working 
+channel  in  the  colonoscope)  these  bleeding  lesions  can  be 
+photocoagulated.  This  way,  one  can  avoid  undergoing   major 
+surgery, which not so long ago, would have been unavoidable.
+
+(b):  GI  cancers:  Another area where  lasers  have  shown  good 
+results are in GI tract cancers - both in the upper and lower  GI 
+tract.  Some cancers block the gastrointestinal  lumen  (passage) 
+leading to dysphagia (the inability to swallow) when it is in the 
+oesophagus,  or  constipation or obstruction to  the  passage  of 
+stools,  when  it is in the lower GI tract.  These  cancers  grow 
+within the lumen of the GI tract and gradually block the passage. 
+Using the laser fibre through the endoscope, these extra  growths 
+of the tumour are burnt out thus creating a clear pathway for the 
+food (if the cancer is in the food pipes or oesophagus) or  stool 
+(if  the tumour had obstructed the lower most part of the gut  or 
+rectum).  This permits us to palliate these often terminally  ill 
+patients  and gives them the dignity of swallowing  normally  and 
+pass  stools  through  the natural passage.  This  is  especially 
+useful  in  patients who are not fit enough or are  too  old  for 
+surgery  or in whom the cancer is too advanced and widespread  to 
+be  considered for any other kind of radical or major surgery  or 
+treatment.  In  the upper GI tract, obstructing  tumours  of  the 
+stomach  and oesophagus are the most common problems to be  dealt 
+with  in  this  way, and in the lower GI  tract,  in  obstructing 
+tumours  of  the  rectum and colon. Most  patients  have  lasting 
+relief, with one or two such sessions of laser treatment.
+
+From  the  fertile imagination of an inspired mind rose  an  idea 
+which  has  fructified into reality in the hands  of  the  modern 
+surgeon, allowing him to extend this range of complex  procedures 
+on the body, with a minimal amount of tissue damage. 
+
+Dr. J. S. RAJKUMAR

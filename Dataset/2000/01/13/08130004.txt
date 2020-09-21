@@ -1,0 +1,242 @@
+
+When will man and machine merge? 
+
+
+With  computers becoming faster, smaller - and smarter,  we  have 
+finally entered the new century when they are predicted to  match 
+-  and even surpass - human intelligence. That day may be  closer 
+than  we ever imagined, finds ANAND PARTHASARATHY, as  he  traces 
+the timeline to a superintelligent machine.
+
+ARTHUR CLARKE put an exact date to it. In 2001: A Space  Odyssey, 
+the  short story which in 1968, became a famous  Stanley  Kubrick 
+film,  he  sketched  a scenario where the  computer  on  board  a 
+spaceship,  becomes  cleverer  than its  creators.  The  computer 
+called HAL, finally takes over the spaceship. 
+
+Clarke has been remarkably prescient in the past. He foretold the 
+development  of  geosynchronous  communication  satellites,  with 
+stunning  accuracy.  So  it  is not  unreasonable  to  ask:  will 
+computers overtake human intelligence sometime next year? 
+
+The   answer  engaged  ``futurists''  and  computer   specialists 
+throughout  the fading months of the last century - and at  least 
+one expert has laid out a precise timetable for the  development: 
+Dr.Ray Kurzweil, US- based Artificial Intelligence (AI) guru  and 
+Speech  Recognition pioneer, in a provocative and prophetic  book 
+published  last  year,  ``The Age  of  Spiritual  Machines:  When 
+Computers Exceed Human Intelligence''. He suggests that:
+
+- By 2020 computers which have the same intelligence as the human 
+brain  -  which is capable of about 20 billion  calculations  per 
+second-  will  be available for $ 1000 (Rs 45,000) or  less:  the 
+price  of a standard multimedia PC in India today. We  will  then 
+have  ``relationships'' with ``automated personalities''. We  can 
+talk to them, learn from them and exchange senses like touch  and 
+smell, with them. 
+
+-  In  another  10 years, by 2030 or so,  machines  will  develop 
+human-like  ``consciousness''  and a PC can  simulate  the  brain 
+power of 1000 human minds. 
+
+- By the end of the 21st century, one computer will have  billion 
+times greater computing capacity than all humans on earth.
+
+In  other  words,  the century we have just entered  will  see  a 
+blurring  of  the  distinction  between  Man  and  Machine.   And 
+significantly,  this is not the result of an alien  invasion;  it 
+will  emerge from within our own human civilization, by  our  own 
+effort. 
+
+If Kurzweil's predictions seem far fetched, consider his argument 
+that  we  are  firmly set on the road which  will  see  all  this 
+happen:
+
+Already,  we have neural implants - tiny processors  which  mimic  
+the  human nerve cell or neuron - to help reduce the  effects  of 
+Parkinson's Disease and multiple sclerosis; chochlear implants to 
+restore  hearing to the aurally challenged.... And any  day  now, 
+will come, a retina implant, powered by solar cells and connected 
+to  the optic nerve to restore sight to the blind, by using  tiny 
+TV cameras embedded in special spectacles. 
+
+Kurzweil  argues  that by 2020 such neural implants will  not  be 
+just  for the sick or disabled - but for most of us, as tools  to 
+enhance  our sensory experience. And one of these  implants  will 
+even plug us directly to the Internet. ``Look Ma, no PC!''
+
+Biological building blocks
+
+Scientists  have  agreed, that the computers of the  near  future 
+which  aim  to  mimic  the  human mind,  will  be  built  out  of 
+biological,  rather  than silicon, building blocks. Some  of  the 
+first  steps  towards this goal are already being  taken.  A  few 
+weeks  ago, two biomedical engineers claimed to have created  the 
+first  superhuman speech recognition system,  using  breakthrough 
+neural technology. Researchers, Theodore Berger and Jim-Shih Liaw 
+of the University of Southern California's Laboratory for  Neural 
+Dynamics,  say their Independent Speech Recognition System  (SRS) 
+is better than humans at recognising spoken speech. 
+
+They  used  artificial neural nets -  which  simulate  biological 
+nervous  systems,  and unlike normal computer  software  are  not 
+programmed. Rather, they are ``trained'' to associate patterns of 
+inputs  with certain outputs. The USC system consists of just  11 
+neurons  and  30  links  and was trained  with  12  words  and  8 
+speakers.  But  its  developers feel, that if  scaled  up,  their 
+network  could be a dramatic improvement over today's  off-  the- 
+shelf speech recognition software.
+
+'Thinking machines'
+
+Once the basic neural network computer system is put together, it 
+could  then  be trained to display what is  known  as  ``emergent 
+behaviour'' - i.e. to act smarter than what its individual  parts 
+are  capable  of. Such ``thinking machines''  were  the  ultimate 
+goals  of  AI workers from the 1960s. But their  approach,  using 
+large,  conventional, number-crunching machines based  on  binary 
+logic, excelled only at specific tasks.
+
+IBM  could  build a ``Big Blue'' RS/6000 computer -  a  massively 
+parallel  machine  - that could finally beat Gary Kasparov  in  a 
+chess  game,  because  its only task was to  search  50  to  1000 
+billion chess positions in under 3 minutes.
+
+Today's frontline intelligent-machine researchers, tend to  pooh- 
+pooh  such  achievements as irrelevant to their long  term  aims. 
+Rather, at places like the AI Lab of the Massachusetts  Institute 
+of Technology (MIT), they are working on robots that can interact 
+with  humans through language, gesture, posture and expression  - 
+and hope that by manipulating the DNA of live cells and trying to  
+merge  such  biological  processes  with  computers,  they   will 
+succeed.
+
+However, this is an area still enmeshed in controversy  regarding 
+ethics. The famous Human Genome Project set out to map in  detail 
+all   DNA  associated  with  humans.  But  what  are  the   moral 
+implications    of    our   ability   to    manipulate    genetic 
+characteristics? If we create a computer equipped to tinker  with 
+such elements, will we have created a Frankenstein's monster?
+
+Wearable computers
+
+In  a purely physical sense, merging men and machines is  already 
+being  achieved  -  through  ``wearable  computers''  -   totally 
+portable  computers  which can be worn like  a  belt,  programmed 
+using a wrist key pad and accessed by a display which appears  on 
+one's  spectacles. Presently a pricey niche market consisting  of 
+field  maintenance  staff  or  doctors  on  the  move,   wearable 
+computers are poised to become affordable items of mass usage  at 
+least  in  this  decade.  Already,  one  can  buy   ready-to-wear 
+computers based on a Linux or Windows Operating System for little 
+more than the cost of an equivalent laptop system. Dr Steven Mann 
+of the University of Toronto, a wearable PC pioneer, goes  around 
+wearing  a  pair of wrap-around dark glasses, which double  as  a 
+monitor  and a tiny Webcam. He records the pictures he  sees  and 
+directly posts them on his website using the Internet server that 
+runs  off  the  hardware strapped to his  torso-  web  authoring, 
+literally,  on the hoof. ABC TV reports that he is working on  an 
+undershirt  or vest with 64 embedded processors which would  turn 
+the  wearer into a massively parallel supercomputer! And the  day 
+is  not  far off when the human body will provide all  the  power 
+source you need.
+
+A  body  in motion, IBM discovered a few years ago,  is  a  small 
+dynamo,  generating a few hundred milliwatts of energy which  can 
+be tapped, stored and used to power the wearable computer.
+
+By  then hopefully, we will be nearer to the time  ``When  Things 
+Start To Think''. That is the title of another controversial book 
+of  1999, by Neil Gershenfeld, presently Director of MIT's  Media 
+Lab.
+
+The  author  suggests a near future when  ``the  medical  cabinet 
+could monitor medical consumption, and could be connected to  the 
+pharmacy  to  order  refills; the toilet  could  perform  routine 
+chemical analyses, and could be connected to the doctor to report 
+aberrations''.  In tomorrow's world of Gershenfeld, a desktop  PC 
+on  a  desktop  is a limitation of its  potential.  We  would  be 
+surrounded  by  smart devices - all computers - till  we  can  no 
+longer  tell what input is human and what comes from a  computer. 
+That  voice  at the end of the telephone that helps  you  book  a 
+train  or  plane  ticket - is it a real person or  a  very  smart 
+computer? we won't know and won't care. 
+
+In  the early days of the new millennium, the first  applications  
+and  devices along the road to an intelligent machine have  begun 
+to appear. 
+
+The high tech toilet is no longer a novelty -- at least in Japan. 
+For  about $ 4000, you can order the Toto ``NeoRest'',  a  toilet 
+featuring a microprocessor controlled seat warmer, automatic  lid 
+opener, deodorizer, water sprays and blow dryer. 
+
+The  new  model  to  come  will  do  precisely  what  Gershenfeld 
+suggests:  analyse  the urine sample for blood sugar and  send  a 
+report to the doctor by an attached modem.
+
+At the Consumer Electronics Show (CES) in Las Vegas on January 5, 
+the  world's largest expo for ``personal technology'', they  were 
+demonstrating  the  ``Visteon'' Car Computer  using  an  advanced 
+voice technology system. Powered by a Pentium chip and a  Windows 
+CE  operating system, the unit fitted on the dashboard, could  be 
+addressed by voice to access Internet, read back email and obtain 
+advice on navigation and weather conditions.
+
+``Thanks, Visteon, that's it for today. Let's head for home!''.
+
+* * *
+
+`The human cell is a computer'
+
+AN ISRAELI scientist has suggested that within two decades, every 
+cell  in  the  human body could be programmed to  act  like  tiny 
+biological  computers.Simple  molecular building  blocks  -  like 
+amino  acid -could be trained to look out for  hostile  bacteria, 
+diagnose   imminent  disease  and  release  tiny  quantities   of 
+antibiotic to fight it.
+
+Reuters, quoted from the latest issue of New Scientist where Ehud 
+Shapiro,  a  computer  scientist  at  the  Weizman  Institute  of 
+Science, in Rehovat, Israel, makes his suggestion.
+
+Shapiro  invokes a principle, ``The Universal  Turing  Machine'', 
+first  enunciated  by the British scientist  Alan  Turing,  sixty 
+years ago. 
+
+Turing's machine, an abstract concept,never realised in hardware, 
+was  supposed  to  read  a mathematical  problem  and  perform  a 
+specific action in response to every line reasoning. 
+
+On the same analogy, says Shapiro, the human biological  building 
+block can be taught to ``read'' a chemical programme contained in 
+a specific molecule and to compute an answer by creating  another 
+molecule. 
+
+This is not much different from how living cells create  proteins 
+according to their DNA. 
+
+This development could occur as early as 20 years from now -  and 
+as late as 50 - Shapiro adds and suggests that if the cell is not  
+able  to  sort  out the problem it could ring an  alarm  by,  for 
+example, colouring the urine. 
+
+New  Scientist which reports Shapiro's prophecy, feels  there  is 
+still much skepticism about it in the scientific community.
+
+Meanwhile,  at  the  Indian  Science  Congress,  which  was  held 
+recently  in Pune, noted Indian physicist, Dr ECG Sudarshan,  now 
+with  Texas  University, said the ultimate  number  cruncher  and 
+super  computer of the twenty first century would be a  ``quantum 
+computer''. 
+
+It would be superior to the human brain and would solve the  most 
+complicated   mathematical  problems  -  like   Fermat's   ``Last 
+Theorem'', he added.
+
+A quantum computer would not be limited to the ones and zeros  of 
+conventional digital computing but would handle a million or more 
+variables. 
+
+Dr  Sudarshan  believes  that early  prototypes  of  the  quantum 
+computer would be realised within this decade.

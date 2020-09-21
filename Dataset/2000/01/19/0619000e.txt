@@ -1,0 +1,173 @@
+
+A guide to dealing in demat securities-II
+
+
+CORPORATE ACTION: Rights - You will receive corporate action  (as 
+announced  by the issuing company) for securities held  in  demat 
+form.
+
+Procedure:  Cash  corporate action  (dividend,  interest,  etc.): 
+Issuer/their   R&T;   agent  directly  forwards   the   depository 
+warrant/interest to the depository account holder. NSDL does  not 
+handle  funds.  The  issuer/their  R &  T  agent  calculates  the 
+benefits  due to you on the basis of ownership data forwarded  by 
+NSDL.
+
+In the future, NSDL intends to play a direct role in distribution 
+of  cash corporate actions. On a pilot basis, NSDL  had  extended 
+the  dividend distribution service to shareholder of  BSES.  NDSL 
+had arranged to directly credit the bank account of  shareholders 
+holding  share  in demat form. The bank account details  were  as 
+provided by shareholders in the depository account opening form.
+
+Non cash corporate action (bonus, rights, etc.): Issuer/their R&T; 
+agent  would  arrange  to credit  your  depository  account  with 
+bonus/rights securities to the extent of your entitlement on  the 
+basis of ownership data forwarded by NSDL.
+
+Points  to remember: Securities lying in the clearing account  of 
+to  any corporate benefits. In case securities bought by you  are 
+in   your  broker's  clearing  account,  ensure  that  they   are 
+transferred to your depository account before book closure/record 
+date.
+
+2.  NSDL does not handle cash corporate actions. In case of  non-
+receipt  of  the  same, contact the issuer/their  R&T;  agent.  In 
+future, when NSDL handles cash corporate actions, you may contact 
+NSDL in case of non-receipt of the same.
+
+3.  In case you wish to avail of the ECS facility  for  receiving 
+your  cash  corporate  action, you may do  so  by  informing  the 
+issuer/their  R  &  T  agent  (provided  the  issuer  gives  this 
+facility).  You will need to inform the company even if you  were 
+availing of this facility for your physical securities which were 
+dematerialised.
+
+4.  Ensure that you give your bank particulars correctly  in  the 
+account  opening  form.  This would be printed  on  the  dividend 
+warrant.
+
+In  case of right/ bonus entitlement irrespective of the form  of 
+your  existing holding, you have to intimate issuer/ their R &  T 
+agent  your  choice of the form (physical/ demat)  in  which  you 
+would  prefer  to receive your right / bonus securities  and  the 
+client  ID  and DP ID of the account in which you would  like  to 
+have  the securities credited. Although this  depository  account  
+can  be  different  from  the  account  in  which  your  existing 
+securities  are held, they should be in the same  combination  of 
+names  as the depository account where your  existing  securities 
+are  held.  If there is any mistake in  your  depository  account 
+details  mentioned in the rights application/  intimation  letter 
+indicating  the  choice of form of bonus  securities,  you  would 
+receive physical securities directly from the issuer / their R  & 
+T agent.
+
+In  case you have not intimated issuer / their R & T  agent  your 
+choice of the form (physical/ demat) in which you would prefer to 
+receive your right / bonus securities, you will get your non-cash 
+corporate benefits in the form of your original holdings.
+
+In case of rights issue, the rights issue form will be  forwarded 
+by the issuer / their R & T agent.
+
+In case of problem in credit in your depository account,  contact 
+your  DP. If they fail to resolve your problem, you  may  contact 
+NSDL.
+
+Transaction statement
+
+Rights: For each account opened with your DP, you will receive  a 
+`statement of account' from your DP on a quarterly basis. If your 
+account  has a debit/ credit during the intervening  period,  you 
+will receive a `statement of account' within 15 days of the debit 
+/ credit to your account. 
+
+Points to remember
+
+You can arrange with your DP to get the `statement of account' at 
+shorter intervals. They may charge for this facility.
+
+In case of any discrepancy in the `statement of account', contact 
+your  DP.  If they fail to resolve your problem you  may  contact 
+NSDL.
+
+The  `statement of account' is your proof of holding and in  case 
+you lose it you would not lose your holding.
+
+General
+
+Charges: NSDL does not charge investor directly. Its charges  are 
+to the DP and these include:
+
+* Custody charge of 0.01 per cent per annum (Rs. 10 for every Rs. 
+100,000)  of the average market value of securities held  in  the 
+account,  subject  to  an overall ceiling based  on  the  average 
+holdings in demat form with the DP.
+
+*  Settlement  charge  of 0.02 per cent (Rs.  20  for  every  Rs. 
+100,000) of the market value of the securities being  transferred 
+from  the  selling broker to the clearing  corporation/  clearing 
+house  of the stock exchange and 0.02 per cent (Rs. 20 for  every  
+Rs.  100,000)  of  the  market  value  of  the  securities  being 
+transferred from the clearing corporation/ clearing house of  the 
+stock exchange to the buying broker.
+
+*  Settlement  charges  of 0.02 per cent (Rs. 20  for  every  Rs. 
+100,000) of the market value of securities to the DP of the buyer 
+and  seller  for trades that are not cleared and settled  at  the 
+stock exchanges, but, settled between two persons directly.
+
+*  Rematerialisation charges of 0.10 per cent (Rs. 100 for  every 
+Rs.  100,000)  of  the  market value of  securities  or  Rs.  10, 
+whichever is higher. DP has athe freedom to decide his own charge 
+structure for the service rendered by them.
+
+Public issues: You can opt for allotment directly in demat  form, 
+provided the company has joined NSDL and gives you this facility.
+
+Pledge: You can pledge your demat holdings.
+
+Lending/  borrowing: You can lend/ borrow demat securities  to  / 
+from an authorised intermediary.
+
+Freezing  of account: You can freeze your account any time.  When 
+your  account is frozen, no transactions will be made  from  your 
+account  until  you  unfreeze  it. Further,  you  also  have  the 
+facility to freeze your account for debits only. In such a  case, 
+credits will automatically flow to your account.
+
+Closure of account: In case your want to close your account  with 
+one  DP, you can do so by shifting your holding to  a  depository 
+account with another DP or by rematerialising your holding.  NSDL 
+does not charge for this. You can rematerialise part or whole  of 
+your holdings any time.
+
+Transmission:  If the account holder passes away, the DP  of  the 
+account holder would be able to process the transmission of these 
+securities  to the legal heirs. You do not have to take  up  with 
+ach  of the issuer/their R&T; agent. NSDL does not charge  its  DP 
+for transmission.
+
+Nomination:  You have the facility to appoint a nominee for  your 
+depository  account. However, your can nominate only  one  person 
+per account. Please note that nomination facility is allowed only 
+in case of securities held singly or held jointly to a maximum of 
+two jointholders.
+
+Change  in  demographic  details:  in  case  of  any  change   in 
+demographic details provided in the account opening form, you can 
+contact  your DP. The DP will ensure that the change  is  updated 
+for all holdings credited in your account.
+
+Investor  grievance: In case of any unresolved dispute with a  DP 
+you  can  contact NSDL for resolution of your  grievance  at  the 
+following  address: Officer-in-charge, Investor Grievances  Cell, 
+National  Securities  Depository  Ltd.,  Tradeworld,  5th  floor,  
+Kamala  Mills Compound, Lower Parel, Mumbai 400 013. Phone:  022-
+4972964-70,        Fax:       022-4972993/4976351.        E-mail: 
+relations@nsdl.co.in.
+
+Please ensure to provide your client ID, DP id & DRN (DRN in case 
+of grievance related to demat) in your correspondence.
+
+(Concluded)

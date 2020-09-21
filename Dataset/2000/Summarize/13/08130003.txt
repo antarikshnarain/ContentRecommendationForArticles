@@ -1,0 +1,8 @@
+Question Corner 
+
+S Palaniappan , Pudukkotai * * * Single phase motor QUESTION : What will be the speed variation when a single phase 4800 RPM , HP,60 Hz , 220 volts motor is made to run on a single phase 50 Hz , 220 volts supply ?
+ANSWER 1 : For an uncontrolled single phase squirrel cage inductionmotor connected to the 60 Hz , 220 V supply , the highest " ideal no load synchronous speed " is 3600 rpm for a 2 pole machine.4800rpm can only be achieved through a step up gear ratio of 4 : 3 .
+Depending on the type of motor design and load , the rated full load slip can be anywhere between 3 per cent to 5 per cent i.e the rated full load speed could be anywhere between 4656 rpm to 4560 rpm .
+The latter has wo consequences : the rated full load slip becomes lower ( say 2-4 per cent ) and consequently the full load speed could lie between 3920 rpm and 3840 rpm .
+Only if the load vis a constant power load , at 1Hp at a reduced speeds of 3920 to 3840 rpm ( as compared to 4656 to 4560 rpm ) , continous operation may not be possible at all .
+S.S.Yegna Narayanan , Chennai ANSWER 2 : Since speed is propotional to frequency , in the above case the speed of the motor will reduce to a rated value of 4000 rpm and the actual value little less like 3900 rpm due to the slip of the machine .

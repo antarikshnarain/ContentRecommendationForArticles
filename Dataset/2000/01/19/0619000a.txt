@@ -1,0 +1,257 @@
+
+A strategic approach for implementation 
+
+
+The  strong  positive  factors such as growing  web  usage,  well 
+evolved IP standards, rapid application development tools, single 
+market  place, global reach and Euro make the organisations  feel 
+confident  of e-commerce, say Sendur Chelvi Madhavan and  Sridhar 
+Chandrasekar.
+
+EVERY new technology introduced in this world has transformed the 
+way  business  is  conducted  - and now, it is  the  turn  of  e-
+commerce. Mr. Alvin Toffler, the famous futurologist predicted  a 
+few  decades  ago that the new networked  digital  economy  would 
+drive and change the 21st century and today e-commerce is  making 
+it true. The proliferation of the new "infonomics" is forcing the 
+traditional  assumptions of economic theory to be rewritten.  The 
+customer  interaction  with business is  being  transformed.  The 
+"Amazon   effect"   is  driving   well-established   "skyscraper" 
+corporations to build attractive online shopping malls. 
+
+The  corporate  world is feeling the pressure -  from  customers, 
+partners  and  even  the shareholders -  to  rapidly  develop  e-
+commerce capability. The strong positive factors such as  growing 
+web   usage,  well  evolved  IP  standards,   rapid   application 
+development  tools,  single market place, global reach  and  Euro 
+make  the  organisations  feel confident of  e-commerce.  The  IT 
+industry  is  responding  favourably  by  throwing  up  effective 
+application development tools every other day. The whole world is 
+witnessing an e-commerce explosion, which is likely to  intensify 
+in the millennium.
+
+Businesses  cannot  succeed in their  e-commerce  venture  unless 
+careful  steps  are taken towards redefining the  business  flow, 
+populating  corporate data from legacy systems, integrating  with 
+the  existing ERP system, efficiently modifying the SCM and  CRM, 
+and  implementing stringent security measures. By  introducing  a 
+wide range of WYSIWYG development tools, the IT industry makes e-
+commerce  development  look much simpler. But e-commerce  is  not 
+just about creating attractive web stores.
+
+This  article  highlights  the  architecture  and  implementation 
+guidelines of e-commerce. It is aimed at providing  organisations 
+a strategic approach for introducing e-commerce.
+
+Types of application
+
+The applications spawning out of the e-commerce initiative can be 
+broadly   grouped  into  seven  categories  (Courtesy:   Aberdeen 
+Consulting  Group).  While not being all-inclusive,  these  seven 
+areas cover most of the common business transactions:
+
+* B-to-B procurement (e-procurement).
+
+* B-to-B and B-to-C sales (e-sales). 
+
+* B-to-B virtual marketplaces and enterprise portals (e-portals).
+
+* One-to-one marketing and e-promotion (e-promotion).
+
+* Customer service (e-CS).
+
+* Electronic payments (e-pay).
+
+Employee self-service (e-ESS).
+
+In  addition  to  these, e-commerce can  be  implemented  between 
+government  organisations  and  between the  government  and  the 
+public.   However,  these  applications  can  also   be   broadly 
+classified under B-to-B or B-to-C.
+
+An integrated business solution
+
+According  to  Mr.  Richard Campbell, President  of  Bright  Star 
+Systems,   e-commerce   is  a  dynamic   set   of   technologies, 
+applications  and  business  practices  that  link   enterprises, 
+customers  and  suppliers  through  electronic  transactions.  E-
+commerce  implementation should be an integrated solution of  the 
+existing business practices, namely;
+
+The customers, suppliers, vendors and service providers,
+
+The organisation's business processes, and The technology.
+
+The  adoption of e-business standards also means drastic  changes 
+in the ways of conducting business. The important points to  note 
+here are:
+
+*  The business is on for 24 hours a day and 365 days a year  (No 
+holidays).
+
+* The organisation displays its products/services in the  virtual 
+market place (Complete transparency).
+
+*  The  orders are going to pour from almost every  part  of  the 
+globe (Global marketplace).
+
+* The customer wants a product according to his specifications by 
+"yesterday" (High customer expectations).
+
+To be precise,
+
+An  executive  might  order a book at amazon.com on  the  way  to 
+airport  at  11 p.m. and might need it to be  delivered  for  in-
+flight reading.
+
+A  customer  might  want to send a camera to  his  college  going 
+grandson in a remote village in India for his tour programme that 
+might start the very next day.
+
+A doctor might order for a medicine at medicines.com through  his 
+mobile phone in the middle of heart surgery to save the patient.
+
+Business  at  the speed of light! - may be a  little  exaggerated 
+but,  e-consumers  worldwide will force the organisations  to  be 
+extremely  fast. In order to keep up the pace,  the  organisation 
+should carefully handle complex issues such as pricing,  multiple 
+tax, government policies, shipping modes, effectiveness in supply 
+chain  management,  procurement, resource availability,  just  in 
+time  delivery systems, efficient customer relations  management, 
+competition  and much more. The following section  discusses  the 
+architecture  of  e-commerce  and the  involvement  of  different 
+business units in creating e-commerce applications.
+
+Architecture of e-commerce
+
+A  simple  web  application  can  be  designed  as  a  three-tier 
+(browser,  web  server and  database)  architecture  constituting 
+three  modules, namely, Presentation logic, which deals with  the 
+HTML   pages  that  help  the  user  to  navigate   through   the 
+organisational   information,  Data  logic,  which   deals   with 
+databases  related to the application, and Business logic  -  the 
+interface between presentation logic and data logic.
+
+But,  e-commerce  applications should be based  on  a  multi-tier 
+architecture   as  shown  in  Fig.  1.  Compared  to  other   web 
+applications, e-commerce applications should be highly secure and 
+depend  more  on third party service providers such  as  security 
+service providers, merchant bankers and financial institutions.
+
+The components of each layer will be discussed here next week  in 
+conjunction  with the processes and the tools/technology  related 
+to them.
+
+E-commerce  cannot be an independent system that would take  care 
+of  the business on the Internet on its own. It should be  viewed 
+as  a  giant integrated information warehouse extended  from  the 
+existing  resources that would cater to the information needs  of 
+the  employees,  customers and  suppliers.  Organisations  should 
+leverage   their   back-end  systems  at  the  point   of   every 
+transaction,   providing  relevant  and  timely  information   to 
+customers.  Today,  an  organisation's data is not  in  a  single 
+source  - it is distributed on Oracle, MFG-PRO, Ingress, DB2  and 
+so  on.  The  systems  interface  layer  should  be  designed  to 
+integrate these legacy systems and make them more transparent  on 
+the web. For instance, when a customer orders an item online, the 
+order  should  immediately get into the order  management  system 
+that might be residing in an Oracle database and the supply chain 
+management (SCM) that might be residing in an Ingress database.
+
+Middleware  solutions  such  as  CORBA,  COM/DCOM  and  RMI   are 
+available  to integrate different platforms and  technologies.  A 
+data  warehouse should be designed to accommodate data  from  the 
+legacy systems from which e-commerce data would be populated. The 
+important consideration here is to maintain the data integrity of  
+the  information  that  has to go and  come  from  the  customer. 
+Typically,  the data warehouse should contain the data  populated 
+from the legacy systems as well as the data originating out of e-
+sales,  e-procurement  and e-payment. The data  management  layer 
+should  precisely  address  the  issues  of  providing  a  single 
+integrated  source of reliable business information for  all  the 
+stakeholders, namely, business partners, customers, suppliers and 
+employees.
+
+Security   is  the  most  critical  aspect  of   the   e-commerce 
+application.  Even today, a majority of customers are  not  fully 
+convinced in giving their credit card numbers over the  Internet. 
+If trading on the Internet is not 100 per cent secure, the  money 
+transaction  will continue to happen only in  conventional  ways. 
+Conscious  of  this, the IT industry is progressively  coming  up 
+with sophisticated Internet security standards. 
+
+As  the  entire  business is integrated and thrown  open  to  the 
+world, the organisation faces security threats from internal  and 
+external   sources.   Though  powerful   security   technologies, 
+including  encryption, authentication, firewalls,  and  intrusion 
+detection systems are available, it is the responsibility of  the 
+organisation  to intelligently select, combine and introduce  the 
+technologies right from the launch of the project.
+
+Money  transaction is the essential feature of e-commerce. It  is 
+important  to implement secure, cost-effective and reliable  ways 
+to  collect payments and process transactions over the  Internet. 
+There are plenty of software products that will take care of  the 
+actual transaction. 
+
+The transaction system of e-commerce should take care of the 24 x 
+7  (24  hours a day, 7 days a week) uptime  of  the  application, 
+transaction  integrity, concurrent system interface,  ability  to 
+handle the increase in volume of transaction, risk management and 
+recovery  system.  While  building  the  transaction  layer,  the 
+organisation  should  aim at achieving faster response  time  and 
+transaction closure.
+
+User  interface involves building attractive online  storefronts. 
+The  e-commerce site should provide  well-organised  HTML/ASP/JSP 
+pages that display the required information. The customers should 
+be  able  to  navigate through the pages  and  get  the  relevant 
+information within a few mouse clicks. The user interface  module 
+should  also  take  care  of  personalising  customer  relations, 
+sending  periodic  product catalogues,  client-side  verification 
+systems,  efficient search engines, foot-print  analysis,  online 
+help  and  frequently  asked  questions  and  answers.  The  core 
+consideration  here  is in providing a look and feel  that  would 
+make using the site a pleasure!
+
+E-commerce  implementation should be in a phased  manner.  Before 
+actually  getting  into the development stage,  the  organisation 
+should  plan  the type of e-commerce application that has  to  be 
+built   first.  A  sample  approach  for  a   phased   e-commerce  
+introduction is provided herein:
+
+* Start with e-employee self-service (e-ESS) and test it with the 
+employees.
+
+* After evaluating the success, and performing a SWOT analysis an 
+extranet can be implemented for e-procurement with select vendors 
+in select regions.
+
+*  Next  target  could be,  implementing  e-procurement  for  all 
+procurement activities from all regions.
+
+* After a couple of B-to-B implementations, the organisation  can 
+go ahead with B-to-C implementation.
+
+Whatever may be the type, the development should start only after 
+implementing  the  legacy  system interface layer  and  the  data 
+management  layer.  Mr. Chuck Shih,  Research  Director,  Gartner 
+Group,  feels that organisations should make a checklist  of  the 
+best     business    practices,    infrastructure     and     the 
+customers/partners, before and after implementing the  e-commerce 
+applications.  The e-commerce development team should by  default 
+include professionals drawn from various divisions, namely,  MIS, 
+ERP,  procurement,  inventory, marketing, quality,  and  software 
+development. The accompanying diagram tries to provide a  planned 
+approach towards e-commerce implementation.
+
+The  forces exerted by rapid changes in technology  and  customer 
+expectations  are  unstoppable. So, the need  to  constantly  re-
+evaluate  and  reinvent the existing business  processes  becomes 
+inevitable. The key in ensuring success in any major exercise  or 
+initiative will be to focus on fundamental guidelines. They are - 
+do  not  rush, lay the foundation strong and plan  carefully  and 
+implement.
+
+Such  fundamentals  only can ensure organisations  from  tumbling 
+into an e-business disillusionment!

@@ -1,0 +1,8 @@
+A guide to dealing in demat securities-II
+
+) : Issuer/their R&T ; agent would arrange to credit your depository account with bonus/rights securities to the extent of your entitlement on the basis of ownership data forwarded by NSDL .
+In case of right/ bonus entitlement irrespective of the form of your existing holding , you have to intimate issuer/ their R & T agent your choice of the form ( physical/ demat ) in which you would prefer to receive your right / bonus securities and the client ID and DP ID of the account in which you would like to have the securities credited .
+If there is any mistake in your depository account details mentioned in the rights application/ intimation letter indicating the choice of form of bonus securities , you would receive physical securities directly from the issuer / their R & T agent .
+In case you have not intimated issuer / their R & T agent your choice of the form ( physical/ demat ) in which you would prefer to receive your right / bonus securities , you will get your non-cash corporate benefits in the form of your original holdings .
+Closure of account : In case your want to close your account with one DP , you can do so by shifting your holding to a depository account with another DP or by rematerialising your holding .
+Investor grievance : In case of any unresolved dispute with a DP you can contact NSDL for resolution of your grievance at the following address : Officer-in-charge , Investor Grievances Cell , National Securities Depository Ltd. , Tradeworld , 5th floor , Kamala Mills Compound , Lower Parel , Mumbai 400 013 .
